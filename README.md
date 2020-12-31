@@ -25,4 +25,6 @@ I am open to contribute to open sources project development!
 </p>
 
 [![Rep's github stats](https://github-readme-stats.vercel.app/api?username=rizqyep)](https://github.com/anuraghazra/github-readme-stats)
-![Visitor Count](https://profile-counter.glitch.me/rizqyep/count.svg)
+
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
