@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on : Web Projects , Backend 
 - 💬 Ask me about : Laravel , Express , Backend Development , Database Design
 - 📫 How to reach me: +6281299424101 on WhatsApp
+- Got a GitLab too by the way : https://gitlab.com/rizqyep
 
 
 I am open to contribute to open sources project development!
