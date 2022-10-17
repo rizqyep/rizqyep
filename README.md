@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at <a href="staffany.com">StaffAny</a>
-- 🌱 I’m currently learning : Backend Development , System Architecture and System Design
+- 🌱 I’m currently learning : Backend Development , System Architecture and Database Engineering
 - 👯 I’m looking to collaborate on : Web Projects , Backend 
-- 💬 Ask me about : Laravel , Express , Backend Development , Database Design
+- 💬 Ask me about : Backend Development , Database Design
 - 📫 How to reach me: +6281299424101 on WhatsApp
 - Got a GitLab too by the way : https://gitlab.com/rizqyep
 
