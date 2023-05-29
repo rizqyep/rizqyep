@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at <a href="https://staffany.com">StaffAny</a>
+- 🔭 I’m currently working at Sinarmas Quantum Engine (SQE)
 - 🌱 I’m currently learning : Backend Development , System Architecture and Database Engineering
 - 👯 I’m looking to collaborate on : Web Projects , Backend 
 - 💬 Ask me about : Backend Development , Database Design
