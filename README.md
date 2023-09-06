@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : Backend Development , System Architecture and Database Engineering
 - 👯 I’m looking to collaborate on : Web Projects , Backend 
 - 💬 Ask me about : Backend Development , Database Design
-- 📫 How to reach me: +6281299424101 on WhatsApp
+- 📫 How to reach me: <a href="https://linkedin.com/in/rizqyep">LinkedIn</a>
 - Got a GitLab too by the way : https://gitlab.com/rizqyep
 
 
