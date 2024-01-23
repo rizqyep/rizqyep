@@ -1,14 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Sinarmas Quantum Engine (SQE)
-- 🌱 I’m currently learning : Backend Development , System Architecture and Database Engineering
-- 👯 I’m looking to collaborate on : Web Projects , Backend 
-- 💬 Ask me about : Backend Development , Database Design
+- 🌱 I’m currently learning : System Architecture and Design, Data Engineering
+- 👯 I’m looking to collaborate as : Technical Project Manager, Technical Lead or Backend Engineer
+- 💬 Ask me about : Backend , Database Design, System Design
 - 📫 How to reach me: <a href="https://linkedin.com/in/rizqyep">LinkedIn</a>
-- Got a GitLab too by the way : https://gitlab.com/rizqyep
-
-
-I am open to contribute to open sources project development!
 
 
 [![Rep's github stats](https://github-readme-stats.vercel.app/api?username=rizqyep)](https://github.com/anuraghazra/github-readme-stats)
