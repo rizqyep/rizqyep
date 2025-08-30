@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizqyep" alt="rizqyep" /></a> </p>
 
-- 🔭 I currently work at **S Quantum Engine**
+- 🔭 I currently work as a Backend at **S Quantum Engine**, while building awesome things at <a href="https://github.com/nodewave-engineering">Nodewave</a>
 
 - 🌱 I’m currently learning **System Architecture and Design, Data Engineering**
 
