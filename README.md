@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizqy Eka Putra</h1>
 <h3 align="center">Software Engineer with an adaptive mindset with product development in heart!</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizqyep" alt="rizqyep" /></a> </p>
-
 - 🔭 I currently work as a Chief Technology Officer at <a href="https://github.com/nodewave-engineering">Nodewave</a>, where we build various awesome stuffs!
 
 - 🌱 I’m currently learning **System Architecture and Design, Data Engineering**
