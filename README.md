@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rizqyepr@gmail.com**
 
-- 📄 Know about my experiences [https://rizqyep.me/files/Rizqy_Eka_Putra_CV.pdf](https://rizqyep.me/files/Rizqy_Eka_Putra_CV.pdf)
+- 📄 Check out my CV for detailed experiences [https://rizqyep.me/static/Rizqy%20Eka%20Putra%20Rizaldy_CV.pdf](here)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
