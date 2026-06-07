@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizqy Eka Putra</h1>
 <h3 align="center">Software Engineer with an adaptive mindset with product development in heart!</h3>
 
-- 🔭 I currently work as a Senior Software Engineer at <a href="https://osome.com">OSOME</a>, where we build various awesome stuffs!
+- 🔭 I currently work as a Senior Software Engineer at <a href="https://github.com/osomepteltd">OSOME</a>, where we build various awesome stuffs!
 
 - 🌱 I’m currently learning **System Architecture and Design, Data Engineering**
 
