@@ -3,9 +3,9 @@
 
 - 🔭 I currently work as a Senior Software Engineer at <a href="https://github.com/osomepteltd">OSOME</a>, as part of Adjacencies and Integration Team, powering and make things possible at OSOME!
 
-- 🌱 I’m currently learning **System Architecture and Design, Data Engineering**
+- 🌱 I’m currently learning **Scalable System Design, Agentic Harness and Low-Level Software Engineering**
 
-- 👯 I’m looking to collaborate on **Any projects as a Technical PM, Tech Lead or Backend Engineer**
+- 👯 Open to collaborate on **Any projects as a Technical PM, Tech Lead or Backend Engineer**
 
 - 👨‍💻 All of my projects are available at [https://rizqyep.me](https://rizqyep.me)
 
